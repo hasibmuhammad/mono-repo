@@ -11,6 +11,7 @@ export default defineConfig({
       exposes: {
         "./Header": "./src/components/Header",
         "./Features": "./src/components/Features",
+        "./Footer": "./src/components/Footer",
       },
       shared: ["react", "react-dom"],
     }),

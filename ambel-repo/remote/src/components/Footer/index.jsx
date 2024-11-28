@@ -99,7 +99,7 @@ const Footer = () => {
 
         <hr />
         <div className="mt-8">
-          <div className="flex flex-col md:flex-row gap-2 md:gap-0 md:justify-between items-center">
+          <div className="flex flex-col-reverse md:flex-row gap-2 md:gap-0 md:justify-between items-center">
             <div className="text-center md:text-left">
               <p>Copyright &copy; 2022. Ambel. All rights reserved.</p>
             </div>
